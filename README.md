@@ -8,3 +8,5 @@ Include example.txt
 4. Stage changes for commit
 5. Commit changes to version history
 6. Review previous changes with git log
+
+Hello world! Learning GIT!
