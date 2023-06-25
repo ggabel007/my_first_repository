@@ -10,3 +10,5 @@ Include example.txt
 6. Review previous changes with git log
 
 Hello world! Learning GIT!
+
+Going to pull direct to the local repository. No fetch!
